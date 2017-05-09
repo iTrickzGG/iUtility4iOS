@@ -2,6 +2,7 @@
 echo "Utility Script For iOS"
 echo "Select An Option"
 echo "*** - Sign As Root Before Running Option"
+echo "@iTrickzGG"
 echo "======================================================="
 echo "[HELP] Troubleshoot"
 echo "[0] Reset NVRAM [BASIC]"
